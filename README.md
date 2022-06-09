@@ -1,3 +1,8 @@
+Note to me: https://stackoverflow.com/questions/67397647/change-default-audio-output-device-with-naudio
+
+
+
+
 ## Description
 AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
 
